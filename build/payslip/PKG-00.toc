@@ -1,0 +1,3450 @@
+('D:\\Audio Sample\\Payslip_gen\\payslip '
+ 'generator\\build\\payslip\\payslip.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True},
+ [('PYZ-00.pyz',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\build\\payslip\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\build\\payslip\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\build\\payslip\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\build\\payslip\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\build\\payslip\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\build\\payslip\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('pyi_rth_setuptools',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_setuptools.py',
+   'PYSOURCE'),
+  ('payslip',
+   'D:\\Audio Sample\\Payslip_gen\\payslip generator\\payslip.py',
+   'PYSOURCE'),
+  ('python311.dll',
+   'C:\\Users\\spark\\AppData\\Local\\Programs\\Python\\Python311\\python311.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\spark\\AppData\\Local\\Programs\\Python\\Python311\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('libfontconfig-1.dll',
+   'C:\\Program Files\\GTK3-Runtime Win64\\bin\\libfontconfig-1.dll',
+   'BINARY'),
+  ('libopenblas64__v0.3.23-gcc_10_3_0.dll',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\numpy\\.libs\\libopenblas64__v0.3.23-gcc_10_3_0.dll',
+   'BINARY'),
+  ('libpango-1.0-0.dll',
+   'C:\\Program Files\\GTK3-Runtime Win64\\bin\\libpango-1.0-0.dll',
+   'BINARY'),
+  ('libgobject-2.0-0.dll',
+   'C:\\Program Files\\GTK3-Runtime Win64\\bin\\libgobject-2.0-0.dll',
+   'BINARY'),
+  ('libharfbuzz-0.dll',
+   'C:\\Program Files\\GTK3-Runtime Win64\\bin\\libharfbuzz-0.dll',
+   'BINARY'),
+  ('libpangoft2-1.0-0.dll',
+   'C:\\Program Files\\GTK3-Runtime Win64\\bin\\libpangoft2-1.0-0.dll',
+   'BINARY'),
+  ('_decimal.pyd',
+   'C:\\Users\\spark\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_lzma.pyd',
+   'C:\\Users\\spark\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Users\\spark\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Users\\spark\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('select.pyd',
+   'C:\\Users\\spark\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Users\\spark\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd',
+   'C:\\Users\\spark\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('_queue.pyd',
+   'C:\\Users\\spark\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('_ctypes.pyd',
+   'C:\\Users\\spark\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_multiprocessing.pyd',
+   'C:\\Users\\spark\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('pyexpat.pyd',
+   'C:\\Users\\spark\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_overlapped.pyd',
+   'C:\\Users\\spark\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_asyncio.pyd',
+   'C:\\Users\\spark\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Users\\spark\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\writers.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pandas\\_libs\\writers.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\window\\indexers.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pandas\\_libs\\window\\indexers.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\window\\aggregations.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pandas\\_libs\\window\\aggregations.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\vectorized.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pandas\\_libs\\tslibs\\vectorized.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\tzconversion.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pandas\\_libs\\tslibs\\tzconversion.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\timezones.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pandas\\_libs\\tslibs\\timezones.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\timestamps.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pandas\\_libs\\tslibs\\timestamps.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\timedeltas.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pandas\\_libs\\tslibs\\timedeltas.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\strptime.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pandas\\_libs\\tslibs\\strptime.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\period.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pandas\\_libs\\tslibs\\period.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\parsing.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pandas\\_libs\\tslibs\\parsing.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\offsets.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pandas\\_libs\\tslibs\\offsets.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\np_datetime.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pandas\\_libs\\tslibs\\np_datetime.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\nattype.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pandas\\_libs\\tslibs\\nattype.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\fields.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pandas\\_libs\\tslibs\\fields.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\dtypes.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pandas\\_libs\\tslibs\\dtypes.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\conversion.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pandas\\_libs\\tslibs\\conversion.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\ccalendar.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pandas\\_libs\\tslibs\\ccalendar.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\base.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pandas\\_libs\\tslibs\\base.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\testing.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pandas\\_libs\\testing.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\sparse.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pandas\\_libs\\sparse.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\reshape.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pandas\\_libs\\reshape.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\reduction.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pandas\\_libs\\reduction.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\properties.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pandas\\_libs\\properties.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\parsers.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pandas\\_libs\\parsers.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\ops_dispatch.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pandas\\_libs\\ops_dispatch.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\ops.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pandas\\_libs\\ops.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\missing.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pandas\\_libs\\missing.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\json.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pandas\\_libs\\json.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\join.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pandas\\_libs\\join.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\interval.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pandas\\_libs\\interval.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\internals.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pandas\\_libs\\internals.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\indexing.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pandas\\_libs\\indexing.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\index.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pandas\\_libs\\index.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\hashing.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pandas\\_libs\\hashing.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\groupby.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pandas\\_libs\\groupby.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\arrays.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pandas\\_libs\\arrays.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\algos.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pandas\\_libs\\algos.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('_uuid.pyd',
+   'C:\\Users\\spark\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_uuid.pyd',
+   'EXTENSION'),
+  ('markupsafe\\_speedups.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\markupsafe\\_speedups.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('_sqlite3.pyd',
+   'C:\\Users\\spark\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_sqlite3.pyd',
+   'EXTENSION'),
+  ('_elementtree.pyd',
+   'C:\\Users\\spark\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_elementtree.pyd',
+   'EXTENSION'),
+  ('lxml\\etree.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\lxml\\etree.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('lxml\\_elementpath.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\lxml\\_elementpath.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('lxml\\sax.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\lxml\\sax.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('lxml\\objectify.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\lxml\\objectify.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('lxml\\html\\diff.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\lxml\\html\\diff.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('lxml\\html\\clean.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\lxml\\html\\clean.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('lxml\\builder.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\lxml\\builder.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_webp.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\PIL\\_webp.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingtk.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\PIL\\_imagingtk.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingcms.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\PIL\\_imagingcms.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('_cffi_backend.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\_cffi_backend.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imaging.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\PIL\\_imaging.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\core\\_multiarray_umath.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\numpy\\core\\_multiarray_umath.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\linalg\\lapack_lite.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\numpy\\linalg\\lapack_lite.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\linalg\\_umath_linalg.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\numpy\\linalg\\_umath_linalg.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\core\\_multiarray_tests.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\numpy\\core\\_multiarray_tests.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\mtrand.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\numpy\\random\\mtrand.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_sfc64.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\numpy\\random\\_sfc64.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_philox.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\numpy\\random\\_philox.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_pcg64.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\numpy\\random\\_pcg64.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_mt19937.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\numpy\\random\\_mt19937.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\bit_generator.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\numpy\\random\\bit_generator.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_generator.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\numpy\\random\\_generator.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_bounded_integers.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\numpy\\random\\_bounded_integers.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_common.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\numpy\\random\\_common.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\fft\\_pocketfft_internal.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\numpy\\fft\\_pocketfft_internal.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\io\\sas\\_sas.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pandas\\io\\sas\\_sas.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\io\\sas\\_byteswap.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pandas\\io\\sas\\_byteswap.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslib.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pandas\\_libs\\tslib.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\lib.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pandas\\_libs\\lib.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\hashtable.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pandas\\_libs\\hashtable.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('fontTools\\misc\\bezierTools.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\fontTools\\misc\\bezierTools.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('fontTools\\varLib\\iup.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\fontTools\\varLib\\iup.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('_brotli.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\_brotli.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('zopfli\\zopfli.cp311-win_amd64.pyd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\zopfli\\zopfli.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('libfreetype-6.dll',
+   'C:\\Program Files\\GTK3-Runtime Win64\\bin\\libfreetype-6.dll',
+   'BINARY'),
+  ('libiconv-2.dll',
+   'C:\\Program Files\\GTK3-Runtime Win64\\bin\\libiconv-2.dll',
+   'BINARY'),
+  ('libgcc_s_seh-1.dll',
+   'C:\\Program Files\\GTK3-Runtime Win64\\bin\\libgcc_s_seh-1.dll',
+   'BINARY'),
+  ('libintl-8.dll',
+   'C:\\Program Files\\GTK3-Runtime Win64\\bin\\libintl-8.dll',
+   'BINARY'),
+  ('libexpat-1.dll',
+   'C:\\Program Files\\GTK3-Runtime Win64\\bin\\libexpat-1.dll',
+   'BINARY'),
+  ('libglib-2.0-0.dll',
+   'C:\\Program Files\\GTK3-Runtime Win64\\bin\\libglib-2.0-0.dll',
+   'BINARY'),
+  ('libthai-0.dll',
+   'C:\\Program Files\\GTK3-Runtime Win64\\bin\\libthai-0.dll',
+   'BINARY'),
+  ('libgio-2.0-0.dll',
+   'C:\\Program Files\\GTK3-Runtime Win64\\bin\\libgio-2.0-0.dll',
+   'BINARY'),
+  ('libfribidi-0.dll',
+   'C:\\Program Files\\GTK3-Runtime Win64\\bin\\libfribidi-0.dll',
+   'BINARY'),
+  ('libffi-7.dll',
+   'C:\\Program Files\\GTK3-Runtime Win64\\bin\\libffi-7.dll',
+   'BINARY'),
+  ('libgraphite2.dll',
+   'C:\\Program Files\\GTK3-Runtime Win64\\bin\\libgraphite2.dll',
+   'BINARY'),
+  ('libstdc++-6.dll',
+   'C:\\Program Files\\GTK3-Runtime Win64\\bin\\libstdc++-6.dll',
+   'BINARY'),
+  ('libcrypto-1_1.dll',
+   'C:\\Users\\spark\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('libssl-1_1.dll',
+   'C:\\Users\\spark\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('libffi-8.dll',
+   'C:\\Users\\spark\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\libffi-8.dll',
+   'BINARY'),
+  ('pandas\\_libs\\window\\VCRUNTIME140_1.dll',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pandas\\_libs\\window\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('pandas\\_libs\\window\\MSVCP140.dll',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pandas\\_libs\\window\\MSVCP140.dll',
+   'BINARY'),
+  ('sqlite3.dll',
+   'C:\\Users\\spark\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\sqlite3.dll',
+   'BINARY'),
+  ('VCRUNTIME140_1.dll',
+   'C:\\Users\\spark\\AppData\\Local\\Programs\\Python\\Python311\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('MSVCP140.dll', 'C:\\WINDOWS\\system32\\MSVCP140.dll', 'BINARY'),
+  ('libpng16-16.dll',
+   'C:\\Program Files\\GTK3-Runtime Win64\\bin\\libpng16-16.dll',
+   'BINARY'),
+  ('zlib1.dll',
+   'C:\\Program Files\\GTK3-Runtime Win64\\bin\\zlib1.dll',
+   'BINARY'),
+  ('libbrotlidec.dll',
+   'C:\\Program Files\\GTK3-Runtime Win64\\bin\\libbrotlidec.dll',
+   'BINARY'),
+  ('libbz2-1.dll',
+   'C:\\Program Files\\GTK3-Runtime Win64\\bin\\libbz2-1.dll',
+   'BINARY'),
+  ('libwinpthread-1.dll',
+   'C:\\Program Files\\GTK3-Runtime Win64\\bin\\libwinpthread-1.dll',
+   'BINARY'),
+  ('libpcre-1.dll',
+   'C:\\Program Files\\GTK3-Runtime Win64\\bin\\libpcre-1.dll',
+   'BINARY'),
+  ('libdatrie-1.dll',
+   'C:\\Program Files\\GTK3-Runtime Win64\\bin\\libdatrie-1.dll',
+   'BINARY'),
+  ('libgmodule-2.0-0.dll',
+   'C:\\Program Files\\GTK3-Runtime Win64\\bin\\libgmodule-2.0-0.dll',
+   'BINARY'),
+  ('libbrotlicommon.dll',
+   'C:\\Program Files\\GTK3-Runtime Win64\\bin\\libbrotlicommon.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\build\\payslip\\base_library.zip',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\El_Salvador',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\El_Salvador',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Tongatapu',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Tongatapu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Malta',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Malta',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Lima',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Lima',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Eirunepe',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Eirunepe',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Creston',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Creston',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Iqaluit',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Iqaluit',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Knox_IN',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Knox_IN',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-14',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-14',
+   'DATA'),
+  ('etc\\fonts\\conf.d\\69-urw-nimbus-sans.conf',
+   'C:\\Program Files\\GTK3-Runtime '
+   'Win64\\etc\\fonts\\conf.d\\69-urw-nimbus-sans.conf',
+   'DATA'),
+  ('etc\\fonts\\conf.d\\40-nonlatin.conf',
+   'C:\\Program Files\\GTK3-Runtime '
+   'Win64\\etc\\fonts\\conf.d\\40-nonlatin.conf',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Galapagos',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Galapagos',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\latex_longtable.tpl',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pandas\\io\\formats\\templates\\latex_longtable.tpl',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Maldives',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Maldives',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Nouakchott',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Nouakchott',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-12',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-12',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Madrid',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Madrid',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Ulyanovsk',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Ulyanovsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Ceuta',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Ceuta',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Tahiti',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Tahiti',
+   'DATA'),
+  ('etc\\fonts\\conf.d\\69-urw-z003.conf',
+   'C:\\Program Files\\GTK3-Runtime '
+   'Win64\\etc\\fonts\\conf.d\\69-urw-z003.conf',
+   'DATA'),
+  ('etc\\fonts\\conf.d\\69-urw-fallback-generics.conf',
+   'C:\\Program Files\\GTK3-Runtime '
+   'Win64\\etc\\fonts\\conf.d\\69-urw-fallback-generics.conf',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Jujuy',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Jujuy',
+   'DATA'),
+  ('etc\\fonts\\conf.d\\90-synthetic.conf',
+   'C:\\Program Files\\GTK3-Runtime '
+   'Win64\\etc\\fonts\\conf.d\\90-synthetic.conf',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Macau',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Macau',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Shiprock',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Shiprock',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Pyongyang',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Pyongyang',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Chungking',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Chungking',
+   'DATA'),
+  ('pytz\\zoneinfo\\Israel',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Israel',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Lower_Princes',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Lower_Princes',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Luxembourg',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Luxembourg',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Bamako',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Bamako',
+   'DATA'),
+  ('pyphen\\dictionaries\\hyph_et_EE.dic',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pyphen\\dictionaries\\hyph_et_EE.dic',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Eucla',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Eucla',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Kigali',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Kigali',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Belgrade',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Belgrade',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Rangoon',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Rangoon',
+   'DATA'),
+  ('etc\\fonts\\conf.d\\20-unhint-small-dejavu-sans-mono.conf',
+   'C:\\Program Files\\GTK3-Runtime '
+   'Win64\\etc\\fonts\\conf.d\\20-unhint-small-dejavu-sans-mono.conf',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tbilisi',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tbilisi',
+   'DATA'),
+  ('pyphen\\dictionaries\\hyph_nb_NO.dic',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pyphen\\dictionaries\\hyph_nb_NO.dic',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Adelaide',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Adelaide',
+   'DATA'),
+  ('pytz\\zoneinfo\\NZ',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\NZ',
+   'DATA'),
+  ('pytz\\zoneinfo\\Zulu',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Zulu',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Catamarca',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Catamarca',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Gibraltar',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Gibraltar',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Nicosia',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Nicosia',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Blanc-Sablon',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Blanc-Sablon',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Katmandu',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Katmandu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Sydney',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Sydney',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\La_Rioja',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\La_Rioja',
+   'DATA'),
+  ('pytz\\zoneinfo\\ROK',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\ROK',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Manaus',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Manaus',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Tegucigalpa',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Tegucigalpa',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+11',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+11',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Anguilla',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Anguilla',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ashkhabad',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ashkhabad',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ujung_Pandang',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ujung_Pandang',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Hermosillo',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Hermosillo',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Rio_Gallegos',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Rio_Gallegos',
+   'DATA'),
+  ('etc\\fonts\\conf.avail\\69-urw-p052.conf',
+   'C:\\Program Files\\GTK3-Runtime '
+   'Win64\\etc\\fonts\\conf.avail\\69-urw-p052.conf',
+   'DATA'),
+  ('etc\\fonts\\conf.d\\57-dejavu-serif.conf',
+   'C:\\Program Files\\GTK3-Runtime '
+   'Win64\\etc\\fonts\\conf.d\\57-dejavu-serif.conf',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Mountain',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Mountain',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Kinshasa',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Kinshasa',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Istanbul',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Istanbul',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Vevay',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Vevay',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Saskatchewan',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Canada\\Saskatchewan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Comoro',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Comoro',
+   'DATA'),
+  ('weasyprint\\css\\html5_ua_form.css',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\weasyprint\\css\\html5_ua_form.css',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Boa_Vista',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Boa_Vista',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Saratov',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Saratov',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ust-Nera',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ust-Nera',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Currie',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Currie',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Alaska',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Alaska',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Hawaii',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Hawaii',
+   'DATA'),
+  ('pytz\\zoneinfo\\GMT-0',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\GMT-0',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Dawson_Creek',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Dawson_Creek',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Guernsey',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Guernsey',
+   'DATA'),
+  ('pytz\\zoneinfo\\Eire',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Eire',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\South',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\South',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Vladivostok',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Vladivostok',
+   'DATA'),
+  ('etc\\fonts\\conf.d\\30-metric-aliases.conf',
+   'C:\\Program Files\\GTK3-Runtime '
+   'Win64\\etc\\fonts\\conf.d\\30-metric-aliases.conf',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Stockholm',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Stockholm',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Windhoek',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Windhoek',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Barbados',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Barbados',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tomsk',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tomsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Fiji',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Fiji',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Paramaribo',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Paramaribo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Canary',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Canary',
+   'DATA'),
+  ('etc\\fonts\\conf.d\\50-user.conf',
+   'C:\\Program Files\\GTK3-Runtime Win64\\etc\\fonts\\conf.d\\50-user.conf',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kuwait',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kuwait',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Costa_Rica',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Costa_Rica',
+   'DATA'),
+  ('pyphen\\dictionaries\\hyph_gl.dic',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pyphen\\dictionaries\\hyph_gl.dic',
+   'DATA'),
+  ('pytz\\zoneinfo\\NZ-CHAT',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\NZ-CHAT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Rome',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Rome',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Yap',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Yap',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Istanbul',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Istanbul',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Majuro',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Majuro',
+   'DATA'),
+  ('etc\\fonts\\conf.d\\20-unhint-small-dejavu-serif.conf',
+   'C:\\Program Files\\GTK3-Runtime '
+   'Win64\\etc\\fonts\\conf.d\\20-unhint-small-dejavu-serif.conf',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Pago_Pago',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Pago_Pago',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Dubai',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Dubai',
+   'DATA'),
+  ('pytz\\zoneinfo\\zone1970.tab',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\zone1970.tab',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Samarkand',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Samarkand',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Knox',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Knox',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Yangon',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Yangon',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Guyana',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Guyana',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Minsk',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Minsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Gaza',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Gaza',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Sitka',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Sitka',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Truk',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Truk',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Belem',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Belem',
+   'DATA'),
+  ('pyphen\\dictionaries\\hyph_pl_PL.dic',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pyphen\\dictionaries\\hyph_pl_PL.dic',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-5',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-5',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-2',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-2',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Singapore',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Singapore',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Yakutsk',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Yakutsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Eastern',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Canada\\Eastern',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Atikokan',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Atikokan',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cuiaba',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Cuiaba',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\XSD2Schtrn.xsl',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\XSD2Schtrn.xsl',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Kanton',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Kanton',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Banjul',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Banjul',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Skopje',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Skopje',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Bangkok',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Bangkok',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Louisville',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Louisville',
+   'DATA'),
+  ('pytz\\zoneinfo\\Iceland',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Iceland',
+   'DATA'),
+  ('etc\\fonts\\conf.avail\\69-urw-bookman.conf',
+   'C:\\Program Files\\GTK3-Runtime '
+   'Win64\\etc\\fonts\\conf.avail\\69-urw-bookman.conf',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+10',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+10',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT0',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT0',
+   'DATA'),
+  ('etc\\fonts\\conf.d\\README',
+   'C:\\Program Files\\GTK3-Runtime Win64\\etc\\fonts\\conf.d\\README',
+   'DATA'),
+  ('etc\\fonts\\conf.d\\51-local.conf',
+   'C:\\Program Files\\GTK3-Runtime Win64\\etc\\fonts\\conf.d\\51-local.conf',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-3',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-3',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Qyzylorda',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Qyzylorda',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Yancowinna',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Yancowinna',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Hebron',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Hebron',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Davis',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Davis',
+   'DATA'),
+  ('pytz\\zoneinfo\\Cuba',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Cuba',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Eastern',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Eastern',
+   'DATA'),
+  ('pyphen\\dictionaries\\hyph_pt_BR.dic',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pyphen\\dictionaries\\hyph_pt_BR.dic',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Manila',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Manila',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Qatar',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Qatar',
+   'DATA'),
+  ('pyphen\\dictionaries\\hyph_en_US.dic',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pyphen\\dictionaries\\hyph_en_US.dic',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\RNG2Schtrn.xsl',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\RNG2Schtrn.xsl',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Pontianak',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Pontianak',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Newfoundland',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Canada\\Newfoundland',
+   'DATA'),
+  ('etc\\fonts\\conf.d\\57-dejavu-sans.conf',
+   'C:\\Program Files\\GTK3-Runtime '
+   'Win64\\etc\\fonts\\conf.d\\57-dejavu-sans.conf',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Podgorica',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Podgorica',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Kosrae',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Kosrae',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Ojinaga',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Ojinaga',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Ponape',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Ponape',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Simferopol',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Simferopol',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Grenada',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Grenada',
+   'DATA'),
+  ('pytz\\zoneinfo\\HST',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\HST',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Arizona',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Arizona',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ulaanbaatar',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ulaanbaatar',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Apia',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Apia',
+   'DATA'),
+  ('etc\\fonts\\conf.d\\20-unhint-small-dejavu-sans.conf',
+   'C:\\Program Files\\GTK3-Runtime '
+   'Win64\\etc\\fonts\\conf.d\\20-unhint-small-dejavu-sans.conf',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Yukon',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Canada\\Yukon',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kathmandu',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kathmandu',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\readme.txt',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\readme.txt',
+   'DATA'),
+  ('pytz\\zoneinfo\\CET',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\CET',
+   'DATA'),
+  ('pytz\\zoneinfo\\GB',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\GB',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Nome',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Nome',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Prague',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Prague',
+   'DATA'),
+  ('etc\\fonts\\conf.avail\\69-urw-standard-symbols-ps.conf',
+   'C:\\Program Files\\GTK3-Runtime '
+   'Win64\\etc\\fonts\\conf.avail\\69-urw-standard-symbols-ps.conf',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kabul',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kabul',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Johnston',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Johnston',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Marigot',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Marigot',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Novosibirsk',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Novosibirsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Wake',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Wake',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Stanley',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Stanley',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Thimbu',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Thimbu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-11',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-11',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Troll',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Troll',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\ACT',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\ACT',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Fortaleza',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Fortaleza',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\South_Georgia',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\South_Georgia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Porto-Novo',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Porto-Novo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Barnaul',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Barnaul',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Urumqi',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Urumqi',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Baghdad',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Baghdad',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Palmer',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Palmer',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Sao_Tome',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Sao_Tome',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_abstract_expand.xsl',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_abstract_expand.xsl',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Aruba',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Aruba',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Madeira',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Madeira',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\San_Juan',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\San_Juan',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Sao_Paulo',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Sao_Paulo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Nicosia',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Nicosia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Thimphu',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Thimphu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Hobart',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Hobart',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Cocos',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Cocos',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Reykjavik',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Reykjavik',
+   'DATA'),
+  ('etc\\fonts\\conf.d\\69-urw-nimbus-mono-ps.conf',
+   'C:\\Program Files\\GTK3-Runtime '
+   'Win64\\etc\\fonts\\conf.d\\69-urw-nimbus-mono-ps.conf',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Goose_Bay',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Goose_Bay',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\latex_table.tpl',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pandas\\io\\formats\\templates\\latex_table.tpl',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Aleutian',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Aleutian',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Thule',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Thule',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Punta_Arenas',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Punta_Arenas',
+   'DATA'),
+  ('pyphen\\dictionaries\\hyph_hr_HR.dic',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pyphen\\dictionaries\\hyph_hr_HR.dic',
+   'DATA'),
+  ('pytz\\zoneinfo\\zone.tab',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\zone.tab',
+   'DATA'),
+  ('pytz\\zoneinfo\\GMT+0',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\GMT+0',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\DumontDUrville',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\DumontDUrville',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Phoenix',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Phoenix',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Helsinki',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Helsinki',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Oral',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Oral',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Hong_Kong',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Hong_Kong',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Kentucky\\Louisville',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Kentucky\\Louisville',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Yekaterinburg',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Yekaterinburg',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Budapest',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Budapest',
+   'DATA'),
+  ('etc\\fonts\\conf.avail\\69-urw-nimbus-roman.conf',
+   'C:\\Program Files\\GTK3-Runtime '
+   'Win64\\etc\\fonts\\conf.avail\\69-urw-nimbus-roman.conf',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Chihuahua',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Chihuahua',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Auckland',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Auckland',
+   'DATA'),
+  ('etc\\fonts\\conf.avail\\69-urw-fallback-generics.conf',
+   'C:\\Program Files\\GTK3-Runtime '
+   'Win64\\etc\\fonts\\conf.avail\\69-urw-fallback-generics.conf',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Barthelemy',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\St_Barthelemy',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Ushuaia',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Ushuaia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Riyadh',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Riyadh',
+   'DATA'),
+  ('pytz\\zoneinfo\\MST',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\MST',
+   'DATA'),
+  ('pyphen\\dictionaries\\hyph_de_CH.dic',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pyphen\\dictionaries\\hyph_de_CH.dic',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Atlantic',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Canada\\Atlantic',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Rothera',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Rothera',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Samoa',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Samoa',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Oslo',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Oslo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Midway',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Midway',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Yellowknife',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Yellowknife',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Godthab',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Godthab',
+   'DATA'),
+  ('pyphen\\dictionaries\\hyph_sv.dic',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pyphen\\dictionaries\\hyph_sv.dic',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cayman',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Cayman',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tehran',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tehran',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Zagreb',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Zagreb',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Grand_Turk',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Grand_Turk',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Vincent',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\St_Vincent',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Seoul',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Seoul',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Salta',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Salta',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Lagos',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Lagos',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Dili',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Dili',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Malabo',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Malabo',
+   'DATA'),
+  ('pyphen\\dictionaries\\hyph_mn_MN.dic',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pyphen\\dictionaries\\hyph_mn_MN.dic',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Kiritimati',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Kiritimati',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Bahrain',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Bahrain',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Panama',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Panama',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Guadeloupe',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Guadeloupe',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Sarajevo',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Sarajevo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Chita',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Chita',
+   'DATA'),
+  ('weasyprint\\css\\html5_ph.css',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\weasyprint\\css\\html5_ph.css',
+   'DATA'),
+  ('pyphen\\dictionaries\\hyph_de_DE.dic',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pyphen\\dictionaries\\hyph_de_DE.dic',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Montevideo',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Montevideo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Dushanbe',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Dushanbe',
+   'DATA'),
+  ('pytz\\zoneinfo\\GMT0',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\GMT0',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Rosario',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Rosario',
+   'DATA'),
+  ('pyphen\\dictionaries\\hyph_te_IN.dic',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pyphen\\dictionaries\\hyph_te_IN.dic',
+   'DATA'),
+  ('etc\\fonts\\conf.avail\\69-urw-z003.conf',
+   'C:\\Program Files\\GTK3-Runtime '
+   'Win64\\etc\\fonts\\conf.avail\\69-urw-z003.conf',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Kaliningrad',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Kaliningrad',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Marengo',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Marengo',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Moncton',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Moncton',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Ouagadougou',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Ouagadougou',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Faeroe',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Faeroe',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Atyrau',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Atyrau',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Asmera',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Asmera',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Rainy_River',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Rainy_River',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\Greenwich',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\Greenwich',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Detroit',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Detroit',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\Zulu',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\Zulu',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Vancouver',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Vancouver',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Tarawa',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Tarawa',
+   'DATA'),
+  ('pytz\\zoneinfo\\W-SU',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\W-SU',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Bucharest',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Bucharest',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Buenos_Aires',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Buenos_Aires',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Thunder_Bay',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Thunder_Bay',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Tucuman',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Tucuman',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Djibouti',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Djibouti',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Dhaka',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Dhaka',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Mendoza',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Mendoza',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Central',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Central',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Fakaofo',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Fakaofo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-10',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-10',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Mahe',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Mahe',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Chatham',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Chatham',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Jamaica',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Jamaica',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Mazatlan',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Mazatlan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-9',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-9',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Belize',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Belize',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Nassau',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Nassau',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Chagos',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Chagos',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Bratislava',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Bratislava',
+   'DATA'),
+  ('pyphen\\dictionaries\\hyph_sl_SI.dic',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pyphen\\dictionaries\\hyph_sl_SI.dic',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Tunis',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Tunis',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+2',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+2',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Copenhagen',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Copenhagen',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_svrl_for_xslt1.xsl',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_svrl_for_xslt1.xsl',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Abidjan',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Abidjan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kuching',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kuching',
+   'DATA'),
+  ('pytz\\zoneinfo\\Egypt',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Egypt',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Algiers',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Algiers',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Macao',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Macao',
+   'DATA'),
+  ('pytz\\zoneinfo\\Libya',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Libya',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Jan_Mayen',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Jan_Mayen',
+   'DATA'),
+  ('pytz\\zoneinfo\\Greenwich',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Greenwich',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kolkata',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kolkata',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Kentucky\\Monticello',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Kentucky\\Monticello',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Recife',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Recife',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Noronha',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Noronha',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Guadalcanal',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Guadalcanal',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Glace_Bay',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Glace_Bay',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Chongqing',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Chongqing',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-6',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-6',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Guam',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Guam',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Uzhgorod',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Uzhgorod',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Yakutat',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Yakutat',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Nipigon',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Nipigon',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Melbourne',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Melbourne',
+   'DATA'),
+  ('pyphen\\dictionaries\\hyph_eo.dic',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pyphen\\dictionaries\\hyph_eo.dic',
+   'DATA'),
+  ('pytz\\zoneinfo\\Kwajalein',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Kwajalein',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Sofia',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Sofia',
+   'DATA'),
+  ('pyphen\\dictionaries\\hyph_lt.dic',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pyphen\\dictionaries\\hyph_lt.dic',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Damascus',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Damascus',
+   'DATA'),
+  ('etc\\fonts\\conf.avail\\57-dejavu-serif.conf',
+   'C:\\Program Files\\GTK3-Runtime '
+   'Win64\\etc\\fonts\\conf.avail\\57-dejavu-serif.conf',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Blantyre',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Blantyre',
+   'DATA'),
+  ('etc\\fonts\\conf.d\\60-generic.conf',
+   'C:\\Program Files\\GTK3-Runtime Win64\\etc\\fonts\\conf.d\\60-generic.conf',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Makassar',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Makassar',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Magadan',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Magadan',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Maceio',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Maceio',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Freetown',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Freetown',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\La_Paz',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\La_Paz',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Canberra',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Canberra',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Kirov',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Kirov',
+   'DATA'),
+  ('pytz\\zoneinfo\\iso3166.tab',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\iso3166.tab',
+   'DATA'),
+  ('pytz\\zoneinfo\\EST',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\EST',
+   'DATA'),
+  ('etc\\fonts\\conf.avail\\69-urw-nimbus-mono-ps.conf',
+   'C:\\Program Files\\GTK3-Runtime '
+   'Win64\\etc\\fonts\\conf.avail\\69-urw-nimbus-mono-ps.conf',
+   'DATA'),
+  ('pyphen\\dictionaries\\hyph_en_GB.dic',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pyphen\\dictionaries\\hyph_en_GB.dic',
+   'DATA'),
+  ('pyphen\\dictionaries\\hyph_ro_RO.dic',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pyphen\\dictionaries\\hyph_ro_RO.dic',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Niue',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Niue',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Calcutta',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Calcutta',
+   'DATA'),
+  ('pyphen\\dictionaries\\hyph_sr.dic',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pyphen\\dictionaries\\hyph_sr.dic',
+   'DATA'),
+  ('pyphen\\dictionaries\\hyph_af_ZA.dic',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pyphen\\dictionaries\\hyph_af_ZA.dic',
+   'DATA'),
+  ('pytz\\zoneinfo\\Mexico\\General',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Mexico\\General',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Brunei',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Brunei',
+   'DATA'),
+  ('pytz\\zoneinfo\\Brazil\\West',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Brazil\\West',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cayenne',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Cayenne',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Choibalsan',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Choibalsan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Monaco',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Monaco',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+0',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+0',
+   'DATA'),
+  ('pytz\\zoneinfo\\CST6CDT',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\CST6CDT',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\rng\\iso-schematron.rng',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\lxml\\isoschematron\\resources\\rng\\iso-schematron.rng',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Juba',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Juba',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Darwin',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Darwin',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Lusaka',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Lusaka',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Norfolk',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Norfolk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Faroe',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Faroe',
+   'DATA'),
+  ('pytz\\zoneinfo\\Japan',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Japan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Dakar',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Dakar',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Mayotte',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Mayotte',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Cairo',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Cairo',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\string.tpl',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pandas\\io\\formats\\templates\\string.tpl',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Perth',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Perth',
+   'DATA'),
+  ('pytz\\zoneinfo\\GB-Eire',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\GB-Eire',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Vilnius',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Vilnius',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Dawson',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Dawson',
+   'DATA'),
+  ('pyphen\\dictionaries\\hyph_id_ID.dic',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pyphen\\dictionaries\\hyph_id_ID.dic',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Managua',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Managua',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Asuncion',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Asuncion',
+   'DATA'),
+  ('pytz\\zoneinfo\\PRC',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\PRC',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\St_Helena',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\St_Helena',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\McMurdo',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\McMurdo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Asmara',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Asmara',
+   'DATA'),
+  ('pytz\\zoneinfo\\Chile\\Continental',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Chile\\Continental',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Pohnpei',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Pohnpei',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Chicago',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Chicago',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Indiana-Starke',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Indiana-Starke',
+   'DATA'),
+  ('etc\\fonts\\fonts.conf',
+   'C:\\Program Files\\GTK3-Runtime Win64\\etc\\fonts\\fonts.conf',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Regina',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Regina',
+   'DATA'),
+  ('pytz\\zoneinfo\\MST7MDT',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\MST7MDT',
+   'DATA'),
+  ('etc\\fonts\\conf.d\\69-urw-gothic.conf',
+   'C:\\Program Files\\GTK3-Runtime '
+   'Win64\\etc\\fonts\\conf.d\\69-urw-gothic.conf',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\latex.tpl',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pandas\\io\\formats\\templates\\latex.tpl',
+   'DATA'),
+  ('pytz\\zoneinfo\\Portugal',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Portugal',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Johns',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\St_Johns',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Thomas',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\St_Thomas',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Mawson',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Mawson',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Brisbane',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Brisbane',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-7',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-7',
+   'DATA'),
+  ('pyphen\\dictionaries\\hyph_fr.dic',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pyphen\\dictionaries\\hyph_fr.dic',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Scoresbysund',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Scoresbysund',
+   'DATA'),
+  ('etc\\fonts\\conf.d\\80-delicious.conf',
+   'C:\\Program Files\\GTK3-Runtime '
+   'Win64\\etc\\fonts\\conf.d\\80-delicious.conf',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Efate',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Efate',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Pacific',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Canada\\Pacific',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Marquesas',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Marquesas',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Lome',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Lome',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\El_Aaiun',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\El_Aaiun',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Lucia',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\St_Lucia',
+   'DATA'),
+  ('pyphen\\dictionaries\\hyph_de_AT.dic',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pyphen\\dictionaries\\hyph_de_AT.dic',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Inuvik',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Inuvik',
+   'DATA'),
+  ('etc\\fonts\\conf.d\\69-urw-p052.conf',
+   'C:\\Program Files\\GTK3-Runtime '
+   'Win64\\etc\\fonts\\conf.d\\69-urw-p052.conf',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\UTC',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\UTC',
+   'DATA'),
+  ('pyphen\\dictionaries\\hyph_es.dic',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pyphen\\dictionaries\\hyph_es.dic',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Guayaquil',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Guayaquil',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Omsk',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Omsk',
+   'DATA'),
+  ('pyphen\\dictionaries\\hyph_hu_HU.dic',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pyphen\\dictionaries\\hyph_hu_HU.dic',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Amman',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Amman',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Denver',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Denver',
+   'DATA'),
+  ('weasyprint\\css\\html5_ua.css',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\weasyprint\\css\\html5_ua.css',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Hovd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Hovd',
+   'DATA'),
+  ('pyphen\\dictionaries\\hyph_cs_CZ.dic',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pyphen\\dictionaries\\hyph_cs_CZ.dic',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Luanda',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Luanda',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Caracas',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Caracas',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Martinique',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Martinique',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Aqtobe',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Aqtobe',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Atka',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Atka',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_schematron_message.xsl',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_schematron_message.xsl',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Isle_of_Man',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Isle_of_Man',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Tiraspol',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Tiraspol',
+   'DATA'),
+  ('etc\\fonts\\conf.d\\57-dejavu-sans-mono.conf',
+   'C:\\Program Files\\GTK3-Runtime '
+   'Win64\\etc\\fonts\\conf.d\\57-dejavu-sans-mono.conf',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Lisbon',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Lisbon',
+   'DATA'),
+  ('pyphen\\dictionaries\\hyph_bg_BG.dic',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pyphen\\dictionaries\\hyph_bg_BG.dic',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Michigan',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Michigan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+5',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+5',
+   'DATA'),
+  ('pyphen\\dictionaries\\hyph_nn_NO.dic',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pyphen\\dictionaries\\hyph_nn_NO.dic',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Matamoros',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Matamoros',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Wallis',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Wallis',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Reunion',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Reunion',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Virgin',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Virgin',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Baku',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Baku',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Vientiane',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Vientiane',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Timbuktu',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Timbuktu',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Kralendijk',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Kralendijk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Athens',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Athens',
+   'DATA'),
+  ('pyphen\\dictionaries\\hyph_nl_NL.dic',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pyphen\\dictionaries\\hyph_nl_NL.dic',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ashgabat',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ashgabat',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Yerevan',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Yerevan',
+   'DATA'),
+  ('etc\\fonts\\conf.d\\69-urw-d050000l.conf',
+   'C:\\Program Files\\GTK3-Runtime '
+   'Win64\\etc\\fonts\\conf.d\\69-urw-d050000l.conf',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Krasnoyarsk',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Krasnoyarsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Srednekolymsk',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Srednekolymsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tel_Aviv',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tel_Aviv',
+   'DATA'),
+  ('pyphen\\dictionaries\\hyph_lv_LV.dic',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pyphen\\dictionaries\\hyph_lv_LV.dic',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Berlin',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Berlin',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tokyo',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tokyo',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Curacao',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Curacao',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Johannesburg',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Johannesburg',
+   'DATA'),
+  ('etc\\fonts\\conf.avail\\69-urw-d050000l.conf',
+   'C:\\Program Files\\GTK3-Runtime '
+   'Win64\\etc\\fonts\\conf.avail\\69-urw-d050000l.conf',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Jersey',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Jersey',
+   'DATA'),
+  ('etc\\fonts\\conf.avail\\69-urw-fallback-backwards.conf',
+   'C:\\Program Files\\GTK3-Runtime '
+   'Win64\\etc\\fonts\\conf.avail\\69-urw-fallback-backwards.conf',
+   'DATA'),
+  ('pytz\\zoneinfo\\Brazil\\Acre',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Brazil\\Acre',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Antigua',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Antigua',
+   'DATA'),
+  ('etc\\fonts\\conf.d\\10-scale-bitmap-fonts.conf',
+   'C:\\Program Files\\GTK3-Runtime '
+   'Win64\\etc\\fonts\\conf.d\\10-scale-bitmap-fonts.conf',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\London',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\London',
+   'DATA'),
+  ('etc\\fonts\\conf.avail\\69-urw-nimbus-sans.conf',
+   'C:\\Program Files\\GTK3-Runtime '
+   'Win64\\etc\\fonts\\conf.avail\\69-urw-nimbus-sans.conf',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_schematron_skeleton_for_xslt1.xsl',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_schematron_skeleton_for_xslt1.xsl',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Andorra',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Andorra',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kashgar',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kashgar',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Shanghai',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Shanghai',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\UCT',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\UCT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Nairobi',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Nairobi',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Bahia_Banderas',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Bahia_Banderas',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Brazzaville',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Brazzaville',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Dominica',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Dominica',
+   'DATA'),
+  ('pyphen\\dictionaries\\hyph_be_BY.dic',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pyphen\\dictionaries\\hyph_be_BY.dic',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Bujumbura',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Bujumbura',
+   'DATA'),
+  ('pyphen\\dictionaries\\hyph_is.dic',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pyphen\\dictionaries\\hyph_is.dic',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+3',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+3',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Bangui',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Bangui',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ho_Chi_Minh',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ho_Chi_Minh',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Adak',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Adak',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Casablanca',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Casablanca',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-1',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-1',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Colombo',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Colombo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+6',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+6',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Metlakatla',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Metlakatla',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Boise',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Boise',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Indianapolis',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Indianapolis',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Harare',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Harare',
+   'DATA'),
+  ('etc\\fonts\\conf.d\\45-latin.conf',
+   'C:\\Program Files\\GTK3-Runtime Win64\\etc\\fonts\\conf.d\\45-latin.conf',
+   'DATA'),
+  ('pyphen\\dictionaries\\hyph_da_DK.dic',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pyphen\\dictionaries\\hyph_da_DK.dic',
+   'DATA'),
+  ('pytz\\zoneinfo\\WET',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\WET',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Belfast',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Belfast',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Campo_Grande',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Campo_Grande',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Rankin_Inlet',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Rankin_Inlet',
+   'DATA'),
+  ('etc\\fonts\\conf.d\\49-sansserif.conf',
+   'C:\\Program Files\\GTK3-Runtime '
+   'Win64\\etc\\fonts\\conf.d\\49-sansserif.conf',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Pacific',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Pacific',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Mbabane',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Mbabane',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Kyiv',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Kyiv',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Muscat',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Muscat',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Winnipeg',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Winnipeg',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\html.tpl',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pandas\\io\\formats\\templates\\html.tpl',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Winamac',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Winamac',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Jayapura',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Jayapura',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Tripoli',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Tripoli',
+   'DATA'),
+  ('pytz\\zoneinfo\\ROC',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\ROC',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Saipan',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Saipan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Bishkek',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Bishkek',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Araguaina',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Araguaina',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Dublin',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Dublin',
+   'DATA'),
+  ('etc\\fonts\\conf.d\\69-urw-standard-symbols-ps.conf',
+   'C:\\Program Files\\GTK3-Runtime '
+   'Win64\\etc\\fonts\\conf.d\\69-urw-standard-symbols-ps.conf',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Honolulu',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Honolulu',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Kitts',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\St_Kitts',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tashkent',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tashkent',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Dacca',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Dacca',
+   'DATA'),
+  ('etc\\fonts\\conf.d\\69-urw-bookman.conf',
+   'C:\\Program Files\\GTK3-Runtime '
+   'Win64\\etc\\fonts\\conf.d\\69-urw-bookman.conf',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Harbin',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Harbin',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\New_York',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\New_York',
+   'DATA'),
+  ('etc\\fonts\\conf.d\\65-fonts-persian.conf',
+   'C:\\Program Files\\GTK3-Runtime '
+   'Win64\\etc\\fonts\\conf.d\\65-fonts-persian.conf',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Vaduz',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Vaduz',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Cordoba',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Cordoba',
+   'DATA'),
+  ('etc\\fonts\\conf.d\\69-urw-fallback-backwards.conf',
+   'C:\\Program Files\\GTK3-Runtime '
+   'Win64\\etc\\fonts\\conf.d\\69-urw-fallback-backwards.conf',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Maputo',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Maputo',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Vincennes',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Vincennes',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Havana',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Havana',
+   'DATA'),
+  ('pytz\\zoneinfo\\Iran',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Iran',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Aden',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Aden',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Coral_Harbour',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Coral_Harbour',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Easter',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Easter',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Bissau',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Bissau',
+   'DATA'),
+  ('pytz\\zoneinfo\\PST8PDT',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\PST8PDT',
+   'DATA'),
+  ('pyphen\\dictionaries\\hyph_uk_UA.dic',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pyphen\\dictionaries\\hyph_uk_UA.dic',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\LHI',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\LHI',
+   'DATA'),
+  ('etc\\fonts\\conf.avail\\57-dejavu-sans-mono.conf',
+   'C:\\Program Files\\GTK3-Runtime '
+   'Win64\\etc\\fonts\\conf.avail\\57-dejavu-sans-mono.conf',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Resolute',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Resolute',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Accra',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Accra',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\East-Indiana',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\US\\East-Indiana',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Merida',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Merida',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Casey',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Casey',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Tijuana',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Tijuana',
+   'DATA'),
+  ('etc\\fonts\\conf.d\\60-latin.conf',
+   'C:\\Program Files\\GTK3-Runtime Win64\\etc\\fonts\\conf.d\\60-latin.conf',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Warsaw',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Warsaw',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Moscow',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Moscow',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Toronto',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Toronto',
+   'DATA'),
+  ('pytz\\zoneinfo\\Turkey',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Turkey',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Douala',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Douala',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Beirut',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Beirut',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kamchatka',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kamchatka',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+7',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+7',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Tortola',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Tortola',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cancun',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Cancun',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Palau',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Palau',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Novokuznetsk',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Novokuznetsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Fort_Nelson',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Fort_Nelson',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Mauritius',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Mauritius',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Volgograd',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Volgograd',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Mogadishu',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Mogadishu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Antananarivo',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Antananarivo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Vienna',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Vienna',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Samoa',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Samoa',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\South_Pole',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\South_Pole',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Azores',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Azores',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-8',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-8',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\html_style.tpl',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pandas\\io\\formats\\templates\\html_style.tpl',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Ndjamena',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Ndjamena',
+   'DATA'),
+  ('pytz\\zoneinfo\\Singapore',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Singapore',
+   'DATA'),
+  ('etc\\fonts\\conf.d\\69-urw-fallback-specifics.conf',
+   'C:\\Program Files\\GTK3-Runtime '
+   'Win64\\etc\\fonts\\conf.d\\69-urw-fallback-specifics.conf',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-13',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-13',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Dar_es_Salaam',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Dar_es_Salaam',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Menominee',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Menominee',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Bogota',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Bogota',
+   'DATA'),
+  ('pyphen\\dictionaries\\hyph_ru_RU.dic',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pyphen\\dictionaries\\hyph_ru_RU.dic',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Jerusalem',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Jerusalem',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Queensland',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Queensland',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Aqtau',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Aqtau',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Phnom_Penh',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Phnom_Penh',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Port-au-Prince',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Port-au-Prince',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Porto_Velho',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Porto_Velho',
+   'DATA'),
+  ('pyphen\\dictionaries\\hyph_el_GR.dic',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pyphen\\dictionaries\\hyph_el_GR.dic',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Khartoum',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Khartoum',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Mendoza',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Mendoza',
+   'DATA'),
+  ('etc\\fonts\\conf.d\\69-unifont.conf',
+   'C:\\Program Files\\GTK3-Runtime Win64\\etc\\fonts\\conf.d\\69-unifont.conf',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Los_Angeles',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Los_Angeles',
+   'DATA'),
+  ('pytz\\zoneinfo\\EST5EDT',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\EST5EDT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Noumea',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Noumea',
+   'DATA'),
+  ('weasyprint\\pdf\\sRGB2014.icc',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\weasyprint\\pdf\\sRGB2014.icc',
+   'DATA'),
+  ('etc\\fonts\\conf.d\\45-generic.conf',
+   'C:\\Program Files\\GTK3-Runtime Win64\\etc\\fonts\\conf.d\\45-generic.conf',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+1',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+1',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Catamarca',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Catamarca',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\NSW',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\NSW',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Jujuy',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Jujuy',
+   'DATA'),
+  ('pyphen\\dictionaries\\hyph_pt_PT.dic',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pyphen\\dictionaries\\hyph_pt_PT.dic',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\North_Dakota\\New_Salem',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\North_Dakota\\New_Salem',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Bermuda',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Bermuda',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Addis_Ababa',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Addis_Ababa',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Tell_City',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Tell_City',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Taipei',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Taipei',
+   'DATA'),
+  ('pytz\\zoneinfo\\Mexico\\BajaNorte',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Mexico\\BajaNorte',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Paris',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Paris',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Libreville',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Libreville',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kuala_Lumpur',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kuala_Lumpur',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Samara',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Samara',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Pangnirtung',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Pangnirtung',
+   'DATA'),
+  ('etc\\fonts\\conf.avail\\20-unhint-small-dejavu-sans-mono.conf',
+   'C:\\Program Files\\GTK3-Runtime '
+   'Win64\\etc\\fonts\\conf.avail\\20-unhint-small-dejavu-sans-mono.conf',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Vostok',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Vostok',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Swift_Current',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Swift_Current',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Santarem',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Santarem',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+8',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+8',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cordoba',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Cordoba',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Santa_Isabel',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Santa_Isabel',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cambridge_Bay',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Cambridge_Bay',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-4',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-4',
+   'DATA'),
+  ('pytz\\zoneinfo\\leapseconds',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\leapseconds',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Lord_Howe',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Lord_Howe',
+   'DATA'),
+  ('pytz\\zoneinfo\\tzdata.zi',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\tzdata.zi',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Kerguelen',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Kerguelen',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Whitehorse',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Whitehorse',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Ensenada',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Ensenada',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indianapolis',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indianapolis',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Victoria',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Victoria',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Mexico_City',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Mexico_City',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Nuuk',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Nuuk',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Port_of_Spain',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Port_of_Spain',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Kampala',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Kampala',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Gaborone',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Gaborone',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Irkutsk',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Irkutsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Broken_Hill',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Broken_Hill',
+   'DATA'),
+  ('pyphen\\dictionaries\\hyph_zu_ZA.dic',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pyphen\\dictionaries\\hyph_zu_ZA.dic',
+   'DATA'),
+  ('pytz\\zoneinfo\\Factory',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Factory',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Edmonton',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Edmonton',
+   'DATA'),
+  ('pyphen\\dictionaries\\hyph_sr_Latn.dic',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pyphen\\dictionaries\\hyph_sr_Latn.dic',
+   'DATA'),
+  ('etc\\fonts\\conf.d\\69-urw-nimbus-roman.conf',
+   'C:\\Program Files\\GTK3-Runtime '
+   'Win64\\etc\\fonts\\conf.d\\69-urw-nimbus-roman.conf',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Gambier',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Gambier',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Sakhalin',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Sakhalin',
+   'DATA'),
+  ('pytz\\zoneinfo\\EET',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\EET',
+   'DATA'),
+  ('pytz\\zoneinfo\\Arctic\\Longyearbyen',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Arctic\\Longyearbyen',
+   'DATA'),
+  ('pyphen\\dictionaries\\hyph_it_IT.dic',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pyphen\\dictionaries\\hyph_it_IT.dic',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Zurich',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Zurich',
+   'DATA'),
+  ('pytz\\zoneinfo\\Poland',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Poland',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Bougainville',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Bougainville',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Fort_Wayne',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Fort_Wayne',
+   'DATA'),
+  ('etc\\fonts\\conf.d\\20-unhint-small-vera.conf',
+   'C:\\Program Files\\GTK3-Runtime '
+   'Win64\\etc\\fonts\\conf.d\\20-unhint-small-vera.conf',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\Universal',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\Universal',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Montreal',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Montreal',
+   'DATA'),
+  ('pytz\\zoneinfo\\GMT',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\GMT',
+   'DATA'),
+  ('etc\\fonts\\conf.avail\\20-unhint-small-dejavu-serif.conf',
+   'C:\\Program Files\\GTK3-Runtime '
+   'Win64\\etc\\fonts\\conf.avail\\20-unhint-small-dejavu-serif.conf',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Zaporozhye',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Zaporozhye',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Conakry',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Conakry',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Riga',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Riga',
+   'DATA'),
+  ('pytz\\zoneinfo\\MET',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\MET',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Danmarkshavn',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Danmarkshavn',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Kwajalein',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Kwajalein',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Lindeman',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Lindeman',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\San_Marino',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\San_Marino',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Funafuti',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Funafuti',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Cape_Verde',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Cape_Verde',
+   'DATA'),
+  ('etc\\fonts\\conf.avail\\69-urw-fallback-specifics.conf',
+   'C:\\Program Files\\GTK3-Runtime '
+   'Win64\\etc\\fonts\\conf.avail\\69-urw-fallback-specifics.conf',
+   'DATA'),
+  ('etc\\fonts\\conf.avail\\20-unhint-small-dejavu-sans.conf',
+   'C:\\Program Files\\GTK3-Runtime '
+   'Win64\\etc\\fonts\\conf.avail\\20-unhint-small-dejavu-sans.conf',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-0',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-0',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Khandyga',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Khandyga',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\North_Dakota\\Beulah',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\North_Dakota\\Beulah',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Chisinau',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Chisinau',
+   'DATA'),
+  ('pytz\\zoneinfo\\Universal',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Universal',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Amsterdam',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Amsterdam',
+   'DATA'),
+  ('pyphen\\dictionaries\\hyph_sk_SK.dic',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pyphen\\dictionaries\\hyph_sk_SK.dic',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Ljubljana',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Ljubljana',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\ComodRivadavia',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\ComodRivadavia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Tasmania',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Tasmania',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Busingen',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Busingen',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Tallinn',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Tallinn',
+   'DATA'),
+  ('pytz\\zoneinfo\\Brazil\\East',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Brazil\\East',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Qostanay',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Qostanay',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Ciudad_Juarez',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Ciudad_Juarez',
+   'DATA'),
+  ('pytz\\zoneinfo\\UCT',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\UCT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Port_Moresby',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Port_Moresby',
+   'DATA'),
+  ('weasyprint\\css\\tests_ua.css',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\weasyprint\\css\\tests_ua.css',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ulan_Bator',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ulan_Bator',
+   'DATA'),
+  ('pyphen\\dictionaries\\hyph_sq_AL.dic',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pyphen\\dictionaries\\hyph_sq_AL.dic',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Vatican',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Vatican',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Jakarta',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Jakarta',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\North_Dakota\\Center',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\North_Dakota\\Center',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Astrakhan',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Astrakhan',
+   'DATA'),
+  ('etc\\fonts\\conf.d\\69-urw-c059.conf',
+   'C:\\Program Files\\GTK3-Runtime '
+   'Win64\\etc\\fonts\\conf.d\\69-urw-c059.conf',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Niamey',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Niamey',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\San_Luis',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\San_Luis',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Enderbury',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Enderbury',
+   'DATA'),
+  ('etc\\fonts\\conf.avail\\69-urw-c059.conf',
+   'C:\\Program Files\\GTK3-Runtime '
+   'Win64\\etc\\fonts\\conf.avail\\69-urw-c059.conf',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Anadyr',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Anadyr',
+   'DATA'),
+  ('pyphen\\dictionaries\\update.sh',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pyphen\\dictionaries\\update.sh',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Almaty',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Almaty',
+   'DATA'),
+  ('etc\\fonts\\conf.avail\\69-urw-gothic.conf',
+   'C:\\Program Files\\GTK3-Runtime '
+   'Win64\\etc\\fonts\\conf.avail\\69-urw-gothic.conf',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Lubumbashi',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Lubumbashi',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Buenos_Aires',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Buenos_Aires',
+   'DATA'),
+  ('pytz\\zoneinfo\\Chile\\EasterIsland',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Chile\\EasterIsland',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Christmas',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Christmas',
+   'DATA'),
+  ('etc\\fonts\\conf.d\\10-hinting-slight.conf',
+   'C:\\Program Files\\GTK3-Runtime '
+   'Win64\\etc\\fonts\\conf.d\\10-hinting-slight.conf',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Central',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Canada\\Central',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Chuuk',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Chuuk',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Santo_Domingo',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Santo_Domingo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\North',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\North',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+12',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+12',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Saigon',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Saigon',
+   'DATA'),
+  ('pytz\\zoneinfo\\UTC',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\UTC',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Brussels',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Brussels',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Macquarie',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Macquarie',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Tirane',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Tirane',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Monterrey',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Monterrey',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Petersburg',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Petersburg',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Bahia',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Bahia',
+   'DATA'),
+  ('etc\\fonts\\conf.d\\65-nonlatin.conf',
+   'C:\\Program Files\\GTK3-Runtime '
+   'Win64\\etc\\fonts\\conf.d\\65-nonlatin.conf',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Rio_Branco',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Rio_Branco',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_dsdl_include.xsl',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_dsdl_include.xsl',
+   'DATA'),
+  ('etc\\fonts\\conf.avail\\57-dejavu-sans.conf',
+   'C:\\Program Files\\GTK3-Runtime '
+   'Win64\\etc\\fonts\\conf.avail\\57-dejavu-sans.conf',
+   'DATA'),
+  ('pytz\\zoneinfo\\Brazil\\DeNoronha',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Brazil\\DeNoronha',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Pitcairn',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Pitcairn',
+   'DATA'),
+  ('pyphen\\dictionaries\\hyph_ca.dic',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pyphen\\dictionaries\\hyph_ca.dic',
+   'DATA'),
+  ('pytz\\zoneinfo\\Hongkong',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Hongkong',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Famagusta',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Famagusta',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Halifax',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Halifax',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Mariehamn',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Mariehamn',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+9',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+9',
+   'DATA'),
+  ('pytz\\zoneinfo\\Navajo',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Navajo',
+   'DATA'),
+  ('pyphen\\dictionaries\\hyph_th_TH.dic',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pyphen\\dictionaries\\hyph_th_TH.dic',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Anchorage',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Anchorage',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Karachi',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Karachi',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\West',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\West',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Mountain',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Canada\\Mountain',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Nauru',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Nauru',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Kiev',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Kiev',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Maseru',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Maseru',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Puerto_Rico',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Puerto_Rico',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+4',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+4',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Juneau',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Juneau',
+   'DATA'),
+  ('pytz\\zoneinfo\\Mexico\\BajaSur',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Mexico\\BajaSur',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\html_table.tpl',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pandas\\io\\formats\\templates\\html_table.tpl',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Guatemala',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Guatemala',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Rarotonga',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Rarotonga',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Santiago',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Santiago',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Monrovia',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Monrovia',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Miquelon',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Miquelon',
+   'DATA'),
+  ('pytz\\zoneinfo\\Jamaica',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Jamaica',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Syowa',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Syowa',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Porto_Acre',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Porto_Acre',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Montserrat',
+   'D:\\Audio Sample\\Payslip_gen\\payslip '
+   'generator\\env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Montserrat',
+   'DATA'),
+  ('setuptools-65.5.0.dist-info\\LICENSE',
+   'd:\\audio sample\\payslip_gen\\payslip '
+   'generator\\env\\lib\\site-packages\\setuptools-65.5.0.dist-info\\LICENSE',
+   'DATA'),
+  ('setuptools-65.5.0.dist-info\\entry_points.txt',
+   'd:\\audio sample\\payslip_gen\\payslip '
+   'generator\\env\\lib\\site-packages\\setuptools-65.5.0.dist-info\\entry_points.txt',
+   'DATA'),
+  ('setuptools-65.5.0.dist-info\\INSTALLER',
+   'd:\\audio sample\\payslip_gen\\payslip '
+   'generator\\env\\lib\\site-packages\\setuptools-65.5.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools-65.5.0.dist-info\\RECORD',
+   'd:\\audio sample\\payslip_gen\\payslip '
+   'generator\\env\\lib\\site-packages\\setuptools-65.5.0.dist-info\\RECORD',
+   'DATA'),
+  ('setuptools-65.5.0.dist-info\\top_level.txt',
+   'd:\\audio sample\\payslip_gen\\payslip '
+   'generator\\env\\lib\\site-packages\\setuptools-65.5.0.dist-info\\top_level.txt',
+   'DATA'),
+  ('setuptools-65.5.0.dist-info\\WHEEL',
+   'd:\\audio sample\\payslip_gen\\payslip '
+   'generator\\env\\lib\\site-packages\\setuptools-65.5.0.dist-info\\WHEEL',
+   'DATA'),
+  ('setuptools-65.5.0.dist-info\\METADATA',
+   'd:\\audio sample\\payslip_gen\\payslip '
+   'generator\\env\\lib\\site-packages\\setuptools-65.5.0.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools-65.5.0.dist-info\\REQUESTED',
+   'd:\\audio sample\\payslip_gen\\payslip '
+   'generator\\env\\lib\\site-packages\\setuptools-65.5.0.dist-info\\REQUESTED',
+   'DATA')],
+ False,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)

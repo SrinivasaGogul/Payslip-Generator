@@ -1,0 +1,307 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+@page{
+    size: A4;
+    margin: 0px;
+}
+.structure{
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    width: auto;
+    height: auto;
+    flex-direction: column;
+    align-items: center;
+    margin: 0px;
+    padding: 10px;
+    background-image: url(./image001.jpg);
+    background-repeat: no-repeat;
+    background-position: center;   
+
+}
+
+.top{
+    height: 70px;
+    width: 750px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+
+}
+
+.top .logo{
+    height: 50px;
+    width: 50px;
+}
+
+
+
+.top .intellecto{
+    display: flex;
+    flex-direction: column;
+
+
+}
+
+.top .intellecto .name{
+    font-size: 27px;
+    font-weight: bolder;
+    text-align: center;
+
+}
+.top .intellecto .pay_slip{
+    font-size: 16px;
+    text-align: center;
+
+}
+.top .intellecto .period{
+    font-size: 16px;
+    text-align: center;
+
+}
+
+.conditions p{
+    font-size: 16px;
+    text-align: center;
+
+}
+th{
+    text-align: center;
+}
+.table1{
+    height: auto;
+    width: 750px;
+    margin-bottom: 25px;
+
+} 
+.tab_1{
+    border: 1px solid black;
+    border-collapse: collapse;
+    height: auto;
+    width: 750px;
+}
+.tab_title {
+    width: 25%;
+}
+
+
+.tab_2{
+    border: none;
+    width: inherit;
+    border-collapse: collapse;
+    height: auto;
+    width: 750px;
+
+}
+.tab_2>tr>th,td{
+    border: 1px solid black;
+}
+.tab_title21{
+    width: 30%;
+}
+.tab_title22{
+    width: 30%;
+}
+.tab_data21{
+    width: 20%;
+}
+.tab_data22{
+    width: 20%;
+}
+
+
+.table3{
+    height: auto;
+    width: 750px;
+
+    
+
+
+}
+.tab_3{
+    border: none;
+    border-collapse: collapse;
+    width:50%;
+
+
+
+}
+.tab_title_xl{
+    border-top: none;
+    width: 60%; 
+    height: auto;
+}
+.tab_data_xl{
+    border-top: none;
+    width: 40%;
+}
+.table4{
+    height: auto;
+    width: 750px;
+ 
+
+
+
+}
+.tab_4{
+    border: none;
+    border-collapse: collapse;
+    width: 50%;
+
+}
+.empty_cell1{
+    border-top: none;
+    width: 60%; 
+    height: 150px;
+}
+.empty_cell2{
+    border-top: none;
+    width: 40%;
+    height: 150px;
+}
+.table5{
+    width: 750px;
+    height: 190px;
+
+
+}
+.tab_5{
+    border: none;
+    border-collapse: collapse;
+    width: 50%;
+    height: inherit;
+    position: relative;
+    top: -175px;
+    left: 50%;
+
+
+
+}
+.big_cell{
+    border: 1px solid black;
+    height: 172px;
+    position: relative;
+    border-left: none;
+    border-top: none;
+}
+.table6{
+    height: auto;
+    width: 750px;
+
+
+}
+th{
+    border: 1px solid black;
+}
+.tab_6{
+    border: none;
+    border-collapse: collapse;
+    width: 100%;
+    height: auto;
+    position: relative;
+    top: -190px;
+    
+}
+.total_earnings, .total_ded{
+    width: 30%;
+    border-top: none;
+}
+.ear_data, .ded_data{
+    width: 20%;
+    border-top: none;
+}
+
+.table7{
+    height: auto;
+    width: 750px;
+
+
+}
+.tab_7{
+    height: auto;
+    width: 750px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    position: relative;
+    top: -110px;
+
+}
+.net_sal, .net_data{
+    width: 50%;
+}
+.table8{
+    height: auto;
+    width: 750px;
+
+
+}
+.tab_8{
+    height: inherit;
+    width: inherit;
+    border: none;
+    border-collapse: collapse;
+    position: relative;
+    top: -110px;
+
+}
+.words{
+    width: 20%;
+    border-top: none;
+}
+.word_cell{
+    width: 80%;
+    border-top: none;
+}
+.message_box{
+    height: 80px;
+    width: 750px;
+    margin-bottom: 30px;
+
+}
+.message_div{
+    height: inherit;
+    width: inherit;
+    border: 1px solid black;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin: 0px;
+    position: relative;
+    top: -80px;
+}
+.line>img{
+    height: auto;
+    width: 750px;
+}
+
+.line_img{
+    height: auto;
+    width: 750px;
+    position: relative;
+    top: -50px;
+
+}
+
+.n1{
+    font-style: italic;
+    color: gray;
+    text-align: center;
+    font-weight: bold;
+    width: 750px;
+}
+
+.add{
+    height: auto;
+    position: relative;
+    top: -65px;
+
+}
+.cred{
+    position: absolute;
+    top: 70px;
+}

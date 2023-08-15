@@ -1,0 +1,285 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+@media print{
+    body{
+        size: a4;
+        width: auto;
+        height: auto;
+        margin: 0px;
+        padding: 0px;
+
+    }
+}
+
+
+.structure{
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    width: auto;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px 200px;
+    padding: 10px;
+    background-image: url(./image001.jpg);
+    background-repeat: no-repeat;
+    background-position: center; 
+
+
+}
+
+.top{
+    height: 70px;
+    width: 750px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+
+}
+
+.top .logo{
+    height: 100%;
+    display: flex;
+    width: auto;
+}
+
+.top .logo img{
+    height: 100%;
+    width: auto;
+}
+
+.top .intellecto{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    left: 50px;
+}
+
+.top .intellecto .name{
+    font-size: 25px;
+    font-weight: bolder;
+    text-align: center;
+}
+.top .intellecto .pay_slip{
+    font-size: 17px;
+    text-align: center;
+}
+.top .intellecto .period{
+    font-size: 17px;
+    text-align: center;
+}
+.conditions p{
+    font-size: 17px;
+    text-align: center;
+    position: relative;
+    top: 15px;
+}
+.table1{
+    height: auto;
+    width: 750px;
+    margin-bottom: 25px;
+} 
+.tab_1{
+    border: 1px solid black;
+    border-collapse: collapse;
+    height: auto;
+    width: inherit;
+}
+.tab_title {
+    width: 25%;
+}
+
+
+.tab_2{
+    border: none;
+    width: inherit;
+    border-collapse: collapse;
+    height: auto;
+    width: 750px;
+}
+.tab_2>tr>th,td{
+    border: 1px solid black;
+}
+.tab_title21{
+    width: 30%;
+}
+.tab_title22{
+    width: 30%;
+}
+.tab_data21{
+    width: 20%;
+}
+.tab_data22{
+    width: 20%;
+}
+
+
+.table3{
+    height: auto;
+    width: inherit;
+    position: relative;
+    left: -187px;
+
+
+}
+.tab_3{
+    border: none;
+    border-collapse: collapse;
+    width: 375px;
+
+}
+.tab_title_xl{
+    border-top: none;
+    width: 60%; 
+    height: auto;
+}
+.tab_data_xl{
+    border-top: none;
+    width: 40%;
+}
+.table4{
+    height: auto;
+    width: inherit;
+    position: relative;
+    left: -187px;
+
+
+}
+.tab_4{
+    border: none;
+    border-collapse: collapse;
+    width: 375px;
+
+}
+.empty_cell1{
+    border-top: none;
+    width: 60%; 
+    height: 150px;
+}
+.empty_cell2{
+    border-top: none;
+    width: 40%;
+    height: 150px;
+}
+.table5{
+    width: 375px;
+    height: 190px;
+    position: relative;
+    top: -190px;
+    left: 187px;
+
+}
+.tab_5{
+    border: none;
+    border-collapse: collapse;
+    width: inherit;
+    height: inherit;
+}
+.big_cell{
+    border-left: none;
+    border-top: none;
+}
+.table6{
+    height: auto;
+    width: 750px;
+    position: absolute;
+    top: 763px;
+
+}
+th{
+    border: 1px solid black;
+}
+.tab_6{
+    border: none;
+    border-collapse: collapse;
+    width: inherit;
+    height: inherit;
+}
+.total_earnings, .total_ded{
+    width: 30%;
+    border-top: none;
+}
+.ear_data, .ded_data{
+    width: 20%;
+    border-top: none;
+}
+
+.table7{
+    height: auto;
+    width: 750px;
+    position: absolute;
+    top: 825px;
+
+}
+.tab_7{
+    height: inherit;
+    width: inherit;
+    border: none;
+    border-collapse: collapse;
+
+}
+.net_sal, .net_data{
+    width: 50%;
+}
+.table8{
+    height: auto;
+    width: 750px;
+    position: absolute;
+    top: 855px;
+
+}
+.tab_8{
+    height: inherit;
+    width: inherit;
+    border: none;
+    border-collapse: collapse;
+
+}
+.words{
+    width: 20%;
+    border-top: none;
+}
+.word_cell{
+    width: 80%;
+    border-top: none;
+}
+.message_box{
+    height: 80px;
+    width: 750px;
+    margin-bottom: 30px;
+    position: absolute;
+    top: 920px;
+
+}
+.message_div{
+    height: inherit;
+    width: inherit;
+    border: 1px solid black;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin: 0px;
+}
+
+.n1{
+    font-style: italic;
+    color: gray;
+    text-align: center;
+    font-weight: bold;
+    width: 800px;
+}
+.line{
+    position: absolute;
+    top: 1020px;
+}
+
+.address{
+    position: absolute;
+    top: 1045px;
+}

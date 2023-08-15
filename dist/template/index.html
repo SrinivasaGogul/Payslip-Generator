@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./index.css">
+
+
+</head>
+<body>
+    <div class="structure">
+        <section class="top" id="header_content">
+            <div class="logo"><img class="img_log" src="./image004.jpg" alt="intellecto Logo"></div>
+            <div class="intellecto">
+                <div class="name">Intellecto Global Services</div>
+                <div class="pay_slip">Pay Slip for the month of {{month}} - {{year}}</div>
+                <div class="period">Financial Period of {{financial_year_from}}-{{financial_year_to}}</div>
+            </div>
+            <div class="conditions">
+                <p>*private and confidential</p>
+            </div>
+        </section>
+        <div class="table1">
+            <table border="1" cellpadding="5" class="tab_1">
+                <tr>
+                    <th colspan="4">Employee Information</th>
+                </tr>
+                <tr>
+                    <td>Name</td>
+                    <td colspan="3" class="tab_data">{{name}}</td>
+                </tr>
+                <tr>
+                    <td class="tab_title">Employee Id</td>
+                    <td class="tab_data">{{employee_id}}</td>
+                    <td class="tab_title">Location</td>
+                    <td class="tab_data">{{location}}</td>
+                </tr>
+                <tr>
+                    <td class="tab_title">Designation</td>
+                    <td class="tab_data">{{designation}}</td>
+                    <td class="tab_title">PAN</td>
+                    <td class="tab_data">{{pan}}</td>
+                </tr>
+                <tr>
+                    <td class="tab_title">Gender</td>
+                    <td class="tab_data">{{gender}}</td>
+                    <td class="tab_title">Bank A/C</td>
+                    <td class="tab_data">{{bank_ac}}</td>
+                </tr>
+                <tr>
+                    <td class="tab_title">Date of Joining</td>
+                    <td class="tab_data">{{doj}}</td>
+                    <td class="tab_title">IFSC Code</td>
+                    <td class="tab_data">{{ifsc}}</td>
+                </tr>
+                <tr>
+                    <td class="tab_title">Date of Birth</td>
+                    <td class="tab_data">{{dob}}</td>
+                    <td class="tab_title">Available Calendar Days</td>
+                    <td class="tab_data">{{calendar}}</td>
+                </tr>
+                <tr>
+                    <td class="tab_title">PF UAN</td>
+                    <td class="tab_data">{{pfnum}}</td>
+                    <td class="tab_title">Paid Days</td>
+                    <td class="tab_data">{{paid_days}}</td>
+                </tr>
+                <tr>
+                    <td class="tab_title">ESI Number</td>
+                    <td class="tab_data">{{esi_number}}</td>
+                    <td class="tab_title">LOP Days</td>
+                    <td class="tab_data">{{lop_days}}</td>
+                </tr>
+            </table>
+        </div>
+        <div class="table2">
+            <table cellpadding="5" class="tab_2">
+                <tr>
+                    <th class="tab_title21" style="border: 1px solid black;">Earnings</th>
+                    <th class="tab_data21" style="border: 1px solid black;">Amount</th>
+                    <th class="tab_title22" style="border: 1px solid black;">Deductions</th>
+                    <th class="tab_data22" style="border: 1px solid black;">Amount</th>
+                </tr>
+                <tr>
+                    <td class="tab_title2">Basic</td>
+                    <td class="tab_data2">{{basic}}</td>
+                    <td class="tab_title2">PF</td>
+                    <td class="tab_data2">{{pf}}</td>
+                </tr>
+                <tr>
+                    <td class="tab_title2">House Rent Allowance(HRA)</td>
+                    <td class="tab_data2">{{rent_allowance}}</td>
+                    <td class="tab_title2">TDS</td>
+                    <td class="tab_data2">{{tds}}</td>
+                </tr>
+                <tr>
+                    <td class="tab_title2">Conveyance Allowance</td>
+                    <td class="tab_data2">{{con_allowance}}</td>
+                    <td class="tab_title2">ESI</td>
+                    <td class="tab_data2">{{esi}}</td>
+                </tr>
+    
+            </table>
+        </div>
+        <div class="table3">
+            <table cellpadding="5" class="tab_3">
+                <tr>
+                    <td class="tab_title_xl">Special Allowance</td>
+                    <td class="tab_data_xl">{{spl}}</td>
+                </tr>
+            </table>
+        </div>
+        <div class="table4">
+            <table cellpadding="5" class="tab_4">
+                <tr>
+                    <td class="empty_cell1"></td>
+                    <td class="empty_cell2"></td>
+                </tr>
+            </table>
+        </div>
+        <div class="table5">
+            <table cellpadding="5" class="tab_5">
+                <td class="big_cell"></td>
+            </table>
+        </div>
+
+        <div class="table6">
+            <table cellspacing="5" class="tab_6">
+                <tr>
+                    <th class="total_earnings">(A) Total Earnings</th>
+                    <td class="ear_data">{{total_earnings}}</td>
+                    <th class="total_ded">(B) Total Deductions</th>
+                    <td class="ded_data">{{total_deductions}}</td>
+                </tr>
+            </table>
+        </div>
+        <div class="table7">
+            <table cellpadding="5" class="tab_7">
+                <tr>
+                    <th style="border: 1px solid black;" class="net_sal">Net Salary(A)-(B)</th>
+                    <th style="border: 1px solid black;" class="net_data">{{net_sal}}</th>
+                </tr>
+            </table>
+        </div>
+        <div class="table8">
+            <table cellpadding="5" class="tab_8">
+                <tr>
+                    <th  class="words">In Words :</th>
+                    <th  class="word_cell">{{in_words}}</th>
+                </tr>
+            </table>
+        </div>
+        <div class="message_box">
+            <div class="message_div">
+                <p>This computer generated Pay-slip is not valid unless authorized</p>
+            </div>
+        </div>
+        <div class="line">
+            <img src="./image006.gif" alt="" class="line_img">
+        </div>
+        <div class="address">
+                <p class="add n1">7/15 Velechery Rd, United Colony Medavakkam, Chennai, Tamil Nadu-600100 <br>
+                    Phone No : +91-9176533433 | Email ID: hr@intellectoglobal.com | website: www.intellectoglobal.com</p>
+
+        </div>
+    
+    </div>
+</body>
+</html>
